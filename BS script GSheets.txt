@@ -1,4 +1,6 @@
 /**
+* Originally published by thetagang https://bit.ly/3kPep25, here corrected math formulas in option price and Rho functions
+*
 * Calculates an Option's Delta using the Black-Scholes Model.
 *
 * @param {number} price - The spot price of the underlying asset.
